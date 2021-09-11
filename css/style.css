@@ -146,7 +146,7 @@ body{
     position: relative;
 }
 .feature_image img{
-    max-width: 100%;
+    width: 100%;
 }
 .for_links {
     text-align: center;
